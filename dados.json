@@ -1,0 +1,21 @@
+{
+  "salario": 10000.0,
+  "despesas": [
+    {
+      "descricao": "Aluguel",
+      "valor": 1300.0
+    },
+    {
+      "descricao": "Internet",
+      "valor": 100.0
+    },
+    {
+      "descricao": "Carro",
+      "valor": 2000.0
+    },
+    {
+      "descricao": "Assinatura",
+      "valor": 400.0
+    }
+  ]
+}
