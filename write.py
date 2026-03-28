@@ -1,4 +1,4 @@
 def line():
-    print('-' * 30)
+    print('-' * 40)
 def title(msg):
-    print(f'{msg:^30}')
+    print(f'{msg:^40}')
